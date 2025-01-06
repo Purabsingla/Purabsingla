@@ -11,7 +11,7 @@
 - 🌱 I’m currently working on **[Expense Tracker](https://github.com/Purabsingla/expensetraker)**  
 - 💬 Ask me about **MERN Stack, Full-Stack Development**  
 - 🚀 I’m currently learning **TypeScript** and **Next.js**  
-- 📫 How to reach me: **purabsingla15@@gmail.com**  
+- 📫 How to reach me: **purabsingla15@gmail.com**  
 - ⚡ Fun fact: I enjoy transforming ideas into digital reality!  
 
 ---
