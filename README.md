@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently working on **[Expense Tracker](https://github.com/Purabsingla/expensetraker)**  
+- 🌱 I’m currently working on **[Movies Search Application](https://github.com/Purabsingla/moviesearch)**  
 - 💬 Ask me about **MERN Stack, Full-Stack Development**  
 - 🚀 I’m currently learning **TypeScript** and **Next.js**  
 - 📫 How to reach me: **purabsingla15@gmail.com**  
