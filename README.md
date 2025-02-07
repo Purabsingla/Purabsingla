@@ -47,8 +47,9 @@
 
 ### 📝 GitHub Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Purabsingla&theme=radical&hide_border=true" alt="Your Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purabsingla&theme=radical&hide_border=true" alt="Your Activity Graph" />
 </p>
+
 
 ### 📊 Languages I Use:
 <p align="center">
@@ -56,14 +57,11 @@
 </p>
 
 
-
----
-
-### 📊 GitHub Contribution Graph:
-
+### 📝 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-grid?username=Purabsingla&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github.com/Purabsingla/Purabsingla/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
