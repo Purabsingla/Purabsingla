@@ -56,13 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purabsingla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
-### 📝 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github.com/Purabsingla/Purabsingla/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
-</p>
-
-
 ---
 
 ### 🌐 Connect with Me:
