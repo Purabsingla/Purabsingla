@@ -45,6 +45,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purabsingla&theme=radical" alt="GitHub Streak" />
 </p>
 
+### 📝 GitHub Activity
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=Purabsingla&theme=github)
+
+### 📊 Languages I Use:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purabsingla&layout=compact)
+
+
 ---
 
 ### 📊 GitHub Contribution Graph:
