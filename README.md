@@ -47,6 +47,14 @@
 
 ---
 
+### 📊 GitHub Contribution Graph:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-grid?username=Purabsingla&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ### 🌐 Connect with Me:
 
 <p>
