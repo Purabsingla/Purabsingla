@@ -46,10 +46,15 @@
 </p>
 
 ### 📝 GitHub Activity
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=Purabsingla&theme=github)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Purabsingla&theme=radical&hide_border=true" alt="Your Activity Graph" />
+</p>
 
 ### 📊 Languages I Use:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purabsingla&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purabsingla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 ---
