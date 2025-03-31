@@ -8,7 +8,8 @@
   />
 </p>
 
-![Visitors](https://hit.yhype.me/github/profile?user_id=Purabsingla)
+![Profile Views](https://komarev.com/ghpvc/?username=Purabsingla&color=blue)
+
 
 ---
 
