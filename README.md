@@ -8,7 +8,7 @@
   />
 </p>
 
-![Visitors](https://hit.yhype.me/github/profile?user_id=purabsingla)
+![Visitors](https://hit.yhype.me/github/profile?user_id=Purabsingla)
 
 ---
 
