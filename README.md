@@ -8,7 +8,6 @@
   />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Purabsingla&color=blue)
 
 
 ---
@@ -47,12 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Purabsingla&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purabsingla&theme=radical" alt="GitHub Streak" />
 </p>
-
-### 📝 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purabsingla&theme=radical&hide_border=true" alt="Your Activity Graph" />
-</p>
-
 
 ### 📊 Languages I Use:
 <p align="center">
