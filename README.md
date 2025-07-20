@@ -40,13 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purabsingla&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purabsingla&theme=radical" alt="GitHub Streak" />
-</p>
-
 ### 📊 Languages I Use:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purabsingla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
